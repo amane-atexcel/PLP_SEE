@@ -18,7 +18,7 @@ Equals (=) to compute results
 How to Use
 Clone or download the repository.
 
-Open the index.html file in your web browser.
+Open the Calculator.py file in your computer.
 
 Click the buttons to input numbers and operations.
 
@@ -27,11 +27,6 @@ Press "=" to see the result.
 Use "C" to clear the input.
 
 Technologies Used
-HTML
-
-CSS
-
-JavaScript
-
+Python
 Author
-[Your Name]
+Amanuel Efrem
